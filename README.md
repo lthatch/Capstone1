@@ -1,6 +1,6 @@
 # Capstone1
 
-## Idea 1 (NFL Betting)
+## Preference 1 (NFL Betting)
 https://www.kaggle.com/tobycrabtree/nfl-scores-and-betting-data
 
 Can I predict which team will win?
