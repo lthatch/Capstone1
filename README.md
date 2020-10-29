@@ -1,26 +1,8 @@
-# Capstone1
+# US Police Shootings
 
-## Preference 1 (NFL Betting)
-https://www.kaggle.com/tobycrabtree/nfl-scores-and-betting-data
+Police shootings have been a hot topic recently in the US. I wanted to take a closer look at the data to gain a better understanding of why these shootings were occuring, if they were justified, and if any correlations existed. 
 
-Can I predict which team will win?
+## Are Police shootings increasing?
 
-Can I predict how many points will be scored in a game?
+The first question I asked myself was, are police shootings increasing? Based on what I have heard recently on the news, I expected them to be increasing. My dataset ranged from 2015 to the first half of 2020. I decided to graph the total number of police shootings by year. I also excluded 2020 so the data would not be skewed.
 
-
-Graph of total points scored per game.
-
-Graph of cumulative money made from following predictive model.
-
-
-## Idea 2 (US Police Shootings)
-https://www.kaggle.com/ahsen1330/us-police-shootings
-
-Where do most shooting occur?
-
-What correlations exist between persons shot?
-
-
-Graph heatmap of shootings across US
-
-Graph shooting by demographic
