@@ -2,7 +2,7 @@
 
 Police shootings have been a hot topic recently in the US. I wanted to take a closer look at the data to gain a better understanding of why these shootings were occurring, if they were justified, and if any correlations existed. 
 
-## Are Police shootings increasing?
+## Are Police Shootings Increasing?
 
 The first question I asked myself was, are police shootings increasing? Based on what I have heard recently on the news, I expected them to be increasing. My dataset ranged from 2015 to the first half of 2020. I decided to graph the total number of police shootings by year. I also excluded 2020 so the data would not be skewed.
 
@@ -11,7 +11,7 @@ The first question I asked myself was, are police shootings increasing? Based on
 As you can see my assumption was incorrect. Thats great news! Police shootings have been trending down over the past 4 years with 2019 being the fewest to date with a total of 858.
 
 
-## Does race matter?
+## Does Race Matter?
 
 Throughout the history of the US, racism has been a hot topic which has recently been in the news involving police interactions. The data frame contained 6 different races, White, Black, Hispanic, Asian, Native, and Other. I decided to break the data frame into groups depending on race to see what correlations exist.
 
@@ -47,7 +47,7 @@ Knowing that the overall number of police shootings were decreasing each year, I
 
 I would love to be able to answer this question but because of the lack of data and the amount of variables that could go into answering this question, it is not possible. However, there are a few events in 2017 that I can think of that may have something to do with the the trends in 2017. But I will only focus on the data at hand.
 
-## State by State
+## Comparing States
 
 I decided to look at each state to see if I could find anything interesting.
 
