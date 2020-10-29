@@ -15,7 +15,7 @@ As you can see my assumption was incorrect. Thats great news! Police shootings h
 
 Throughout the history of the US, racism has been a hot topic which has recently been in the news involving police interactions. The data frame contained 6 different races, White, Black, Hispanic, Asian, Native, and Other. I decided to break the data frame into groups depending on race to see what correlations exist.
 
-##Which race is involved in the majority of police shootings? 
+## Which race is involved in the majority of police shootings? 
 
 ![GitHub Logo](./shootings_by_race.png)
 
