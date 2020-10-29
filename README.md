@@ -72,7 +72,9 @@ I wanted to look at the same graph but looking at the ratio of shootings involvi
 As you can see, this graph tells a much different story than the previous two. Although in the previous graphs, California, Texas, and Florida lead the way in both police shootings and police shootings involving Black Americans, This graph shows:
 
 CA - 29th with a ratio of 17%
+
 TX - 23rd with a ratio of 23%
+
 FL - 16th with a ratio of 34%
 
 Excluding Washington D.C. because of the small sample size, the top two states according to ratio:
@@ -81,7 +83,7 @@ Excluding Washington D.C. because of the small sample size, the top two states a
 ![GitHub Logo](./la_ratio_donut.png)
 
 
-Over half of police shootings in these states involve Black Americans…
+More than half of police shootings in these states involve Black Americans…
 
 ## Looking into Louisiana
 
