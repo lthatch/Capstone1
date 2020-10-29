@@ -51,7 +51,7 @@ I would love to be able to answer this question but because of the lack of data 
 
 I decided to look at each state to see if I could find anything interesting.
 
-![GitHub Logo](./shooting_by_state.html)
+![GitHub Logo](./state_map.png)
 
 This map shows the total number of police shootings by state. California had nearly twice as many police shootings as the next closes state with 701. Texas 426 and Florida 324 round out the top three states with the most police shootings.
 
