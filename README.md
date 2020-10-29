@@ -38,7 +38,9 @@ Knowing that the overall number of police shootings were decreasing each year, I
 ![GitHub Logo](./shootings_per_year_race.png)
 
 -White Americans are trending similar to the overall trend of police shootings. 
+
 -Hispanic Americans are trending down since having a spike in 2017
+
 -Black Americans have been trending up since having a low point in 2017
 
 ## What happened in 2017??
