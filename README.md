@@ -23,12 +23,10 @@ As you can see, white Americans are involved in police shootings. This was expec
 
 ## Comparing Race Ratios
 
-I collected data from the US Census Bureau to get the percentage of each race in America. (Sorry about the pie chart)
+I collected data from the US Census Bureau to get the percentage of each race in America and compared the percentage of population by race to the information I had in my data. (Sorry about the pie charts)
+
 
 ![GitHub Logo](./population_pie.png)
-
-I compared the percentage of population by race to the information I had in my data. 
-
 ![GitHub Logo](./race_pie.png)
 
 As you can see, the number that sticks out is the Black American population. Although they make up just over 13% of the US population, Black Americans are involved in over 26% of Police shootings.
