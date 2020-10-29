@@ -57,7 +57,7 @@ This map shows the total number of police shootings by state. California had nea
 
 Wanting to compare the total number of shootings to the Black American community, I used the same graph.
 
-![GitHub Logo](./shooting_map_black.html)
+![GitHub Logo](./map_black_shootings.png)
 
 As you can see, the two graphs correlate closely with one another. Both graphs correlate with population. The states with higher overall population, regardless of race, see more police shootings. 
 
@@ -67,7 +67,7 @@ This did not help me to understand the current trend of Black Americans being in
 
 I wanted to look at the same graph but looking at the ratio of shootings involving Black Americans. To calculate the ratio I divided the total number of shootings involving Black Americans by the total amount of shootings of each state.
 
-![GitHub Logo](./shooting_map_black_ratio.html)
+![GitHub Logo](./map_black_ratio.png)
 
 As you can see, this graph tells a much different story than the previous two. Although in the previous graphs, California, Texas, and Florida lead the way in both police shootings and police shootings involving Black Americans, This graph shows:
 
