@@ -98,22 +98,22 @@ The first category I looked at was, ‘Threat Level’ , and wether the person i
 
 ![GitHub Logo](./images/la_attacking_bar.png)
 
-* 73% of Black Louisianan’s were ‘Attacking’  
 * 62% of White Louisianan’s were ‘Attacking’
+* 73% of Black Louisianan’s were ‘Attacking’  
 
 I then wanted to look at the percentage of unarmed Louisianan’s by race.
 
 ![GitHub Logo](./images/la_unarmed_bar.png)
 
-* 13% of Black Louisianas were shot while unarmed 
 * 5% of White Louisianans were shot while unarmed 
+* 13% of Black Louisianas were shot while unarmed 
 
 And lastly I combined the two metrics to see the percentage of people shot who were ‘Unarmed’ and not ‘Attacking’.
 
 ![GitHub Logo](./images/la_unarmed&not_attacking_bar.png)
 
-* 8% Black Louisianan’s were shot while  ‘Unarmed’ and not ‘Attacking’
 * 3% White Louisianan’s were shot while  ‘Unarmed’ and not ‘Attacking’ 
+* 8% Black Louisianan’s were shot while  ‘Unarmed’ and not ‘Attacking’
 
 ## Final Thoughts
 
